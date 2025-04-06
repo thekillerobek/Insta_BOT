@@ -1,0 +1,6 @@
+aiogram
+python-dotenv
+requests
+flask
+fastapi
+yt-dlp==2024.12.13
